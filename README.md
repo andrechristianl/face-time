@@ -4,7 +4,7 @@
 Clone the repository:
 
 ``` bash
-git clone https://github.com/andrechristianl/face-api.js.git
+git clone https://github.com/andrechristianl/face-time.git
 ```
 
 ## Running the Browser Examples
